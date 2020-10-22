@@ -56,7 +56,7 @@ namespace RPGPracticeCode
 
         public bool Flee()
         {
-            //does the character want to  flee?
+            //does the character want to  flee? Is the mob low enough hitpoints to flee?
         }
 
         public bool LifeStatus()
